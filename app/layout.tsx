@@ -7,8 +7,8 @@ import { cn } from "@/lib/utils"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Dreamer - Personal Portfolio",
-  description: "Personal portfolio website for John Sina, Web Developer",
+  title: "Akinrinola Oreoluwa- Personal Portfolio",
+  description: "Personal portfolio website for Akinrinola Oreoluwa, Growth Engineer and project manager",
     generator: 'v0.dev'
 }
 
